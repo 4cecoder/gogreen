@@ -3,4 +3,8 @@
 ## Handling business logic in a clean and simple way.
 
 ### run automated testing:
-`npm install && npm test`
+`npm install`
+
+`npm run build`
+
+`npm test`
